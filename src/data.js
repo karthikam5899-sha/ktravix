@@ -1,0 +1,11 @@
+export const destinations=[
+{name:"Ooty",state:"Tamil Nadu",region:"Tamil Nadu",tag:"Nature",rating:"4.9",price:7499,desc:"Blue mountain trains, tea estates and cool Nilgiri mornings.",image:"https://images.unsplash.com/photo-1593693411515-c20261bcad6e?auto=format&fit=crop&w=900&q=80"},
+{name:"Madurai",state:"Tamil Nadu",region:"Tamil Nadu",tag:"Culture",rating:"4.8",price:6299,desc:"Temple towers, lively markets and legendary South Indian food.",image:"https://images.unsplash.com/photo-1561361513-2d000a50f0dc?auto=format&fit=crop&w=900&q=80"},
+{name:"Munnar",state:"Kerala",region:"Kerala",tag:"Nature",rating:"4.9",price:8999,desc:"Tea gardens, misty hills and slow mornings in the Western Ghats.",image:"https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=900&q=80"},
+{name:"Alappuzha",state:"Kerala",region:"Kerala",tag:"Waterways",rating:"4.8",price:8299,desc:"Drift through palm-lined canals and Kerala's quiet backwaters.",image:"https://images.unsplash.com/photo-1589979481223-deb893043163?auto=format&fit=crop&w=900&q=80"},
+{name:"Coorg",state:"Karnataka",region:"Karnataka",tag:"Nature",rating:"4.9",price:7999,desc:"Coffee country, forest trails and warm Kodava hospitality.",image:"https://images.unsplash.com/photo-1511497584788-876760111969?auto=format&fit=crop&w=900&q=80"},
+{name:"Hampi",state:"Karnataka",region:"Karnataka",tag:"Heritage",rating:"4.8",price:6999,desc:"Ancient Vijayanagara ruins among the boulder-strewn Tungabhadra valley.",image:"https://images.unsplash.com/photo-1477587458883-47145ed94245?auto=format&fit=crop&w=900&q=80"},
+{name:"Jaipur",state:"Rajasthan",region:"North India",tag:"Heritage",rating:"4.8",price:10999,desc:"Royal palaces, rose-colored streets and the flavors of Rajasthan.",image:"https://images.unsplash.com/photo-1477587458883-47145ed94245?auto=format&fit=crop&w=900&q=80"},
+{name:"Rishikesh",state:"Uttarakhand",region:"North India",tag:"Adventure",rating:"4.9",price:9499,desc:"Ganga-side trails, Himalayan foothills and a slower kind of adventure.",image:"https://images.unsplash.com/photo-1587922546307-776227941871?auto=format&fit=crop&w=900&q=80"}
+];
+export const categories=[["🏔️","Mountains","42 trips"],["🏖️","Beaches","36 trips"],["🏰","Heritage","28 trips"],["🌿","Nature","51 trips"],["🛕","Spiritual","24 trips"],["🧗","Adventure","31 trips"]];

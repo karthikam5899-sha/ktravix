@@ -1,0 +1,2 @@
+import React from "react";import Icon from "./Icon";
+export default function ThemeToggle({theme,setTheme}){return <button className="theme-toggle" onClick={()=>setTheme(theme==="dark"?"light":"dark")}><Icon name={theme==="dark"?"sun":"moon"} size={17}/><span>{theme==="dark"?"Light":"Dark"}</span></button>}
